@@ -15,10 +15,10 @@ namespace LivroCaixa2023.Paginas
         {
             inicializa();
 
-            //Usuario.lista.Add(new Usuario("helio.rangel", "12345", "rangel", 'A', "32369280778"));
+            Usuario.lista.Add(new Usuario("helio.rangel", "12345", "rangel", 'A', "32369280778"));
 
-            //Serializa.saveUsuario(Usuario.lista);
-            //return;
+            Serializa.saveUsuario(Usuario.lista);
+            return;
 
             if (Usuario.lista.Count == 0)
             {

@@ -19,7 +19,7 @@ public class LivroCaixa
     public bool stLivroFechado { get; set; }
     public double saldo { get; set; }
 
-    private static int idRaiz = 1;
+    public static int idRaiz = 1;
 
     public LivroCaixa(double valorTransporte)
     {

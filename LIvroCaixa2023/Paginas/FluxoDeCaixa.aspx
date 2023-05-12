@@ -210,4 +210,6 @@
     </div>
     <asp:Literal ID="ltl_Lancamento" runat="server" />
 
+    <asp:Label ID="lbl_ValorTransportado" runat="server" Text="Valor transportado" />
+
 </asp:Content>

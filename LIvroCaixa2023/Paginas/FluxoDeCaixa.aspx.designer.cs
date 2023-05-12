@@ -229,5 +229,14 @@ namespace LIvroCaixa2023.Paginas
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Literal ltl_Lancamento;
+
+        /// <summary>
+        /// lbl_ValorTransportado control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_ValorTransportado;
     }
 }

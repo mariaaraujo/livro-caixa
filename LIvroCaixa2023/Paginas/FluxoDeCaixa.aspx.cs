@@ -33,8 +33,18 @@ namespace LIvroCaixa2023.Paginas
                     Serializa.saveLivroCaixa(listaLivro);
                 }
                 listaLivro.Sort();
-                livroCaixa = listaLivro[listaLivro.Count - 1];
 
+                //listaLivro[0].stLivroFechado = true;
+                //listaLivro[1].stLivroFechado = false;
+
+
+                //listaLivro[0].mes = "4";
+                //listaLivro[1].mes = "5";
+
+                Serializa.saveLivroCaixa(listaLivro);
+
+                livroCaixa = listaLivro[listaLivro.Count - 1];
+                LivroCaixa.idRaiz = livroCaixa.idLivroCaixa + 1;
             }
 
             if (Session["usuario"] == null)
@@ -83,6 +93,7 @@ namespace LIvroCaixa2023.Paginas
 
             btn_Voltar.Visible = usuario.perfil == 'A';
             btn_Sair.Visible = !btn_Voltar.Visible;
+            lbl_ValorTransportado.Text = "Valor transportado " + livroCaixa.valorTransportado;
         }
 
         private void fecharPeriodo()
