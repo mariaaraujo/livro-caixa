@@ -1,0 +1,614 @@
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\EntityFramework.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\System.Web.Optimization.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\System.Web.Providers.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\WebGrease.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\EntityFramework.xml
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.csprojResolveAssemblyReference.cache
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+c:\users\helio\documents\visual studio 2013\Projects\LIvroCaixa2023\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\EntityFramework.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\System.Web.Optimization.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\System.Web.Providers.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\WebGrease.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\EntityFramework.xml
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.csproj.AssemblyReference.cache
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.csproj.CoreCompileInputs.cache
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.csproj.CopyComplete
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+G:\Rangel\Sistemas WEB 2023\LIvroCaixa2023\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\EntityFramework.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\System.Web.Optimization.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\System.Web.Providers.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\WebGrease.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\EntityFramework.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.csproj.AssemblyReference.cache
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.csproj.CoreCompileInputs.cache
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.csproj.CopyComplete
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Old\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\EntityFramework.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\System.Web.Optimization.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\System.Web.Providers.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\WebGrease.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\EntityFramework.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.AssemblyReference.cache
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CoreCompileInputs.cache
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CopyComplete
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+P:\Rangel\Sistemas WEB 2023\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\EntityFramework.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\System.Web.Optimization.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\System.Web.Providers.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\WebGrease.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\EntityFramework.xml
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CopyComplete
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+C:\Users\unisanta\Desktop\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\EntityFramework.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\System.Web.Optimization.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\System.Web.Providers.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\WebGrease.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\EntityFramework.xml
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.AssemblyReference.cache
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CopyComplete
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+C:\Users\maria\Documentos\Baixado\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.AssemblyReference.cache
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\EntityFramework.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\System.Web.Optimization.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\System.Web.Providers.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\WebGrease.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Mono.Math.dll
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\EntityFramework.xml
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\bin\Mono.Math.xml
+C:\Users\unisanta\Downloads\LIvroCaixa2023Aula02\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CopyComplete
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\EntityFramework.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\System.Web.Optimization.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\System.Web.Providers.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\WebGrease.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\Mono.Math.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\EntityFramework.xml
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\bin\Mono.Math.xml
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.AssemblyReference.cache
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CopyComplete
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+C:\Users\maria\Documentos\Baixado\LivroCaixa2023\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\EntityFramework.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\System.Web.Optimization.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\System.Web.Providers.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\WebGrease.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\Mono.Math.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\EntityFramework.xml
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\bin\Mono.Math.xml
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.AssemblyReference.cache
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CopyComplete
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+C:\Users\unisanta\Downloads\LivroCaixa2023\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\EntityFramework.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\System.Web.Optimization.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\System.Web.Providers.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\WebGrease.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\Mono.Math.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\EntityFramework.xml
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\bin\Mono.Math.xml
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CopyComplete
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+C:\Users\unisanta\Desktop\Nova pasta\LivroCaixa\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\EntityFramework.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\System.Web.Optimization.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\System.Web.Providers.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\WebGrease.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\Mono.Math.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\EntityFramework.xml
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\bin\Mono.Math.xml
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CopyComplete
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+C:\Users\unisanta\Desktop\LivroCaixa\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\EntityFramework.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\System.Web.Optimization.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\System.Web.Providers.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\WebGrease.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\Mono.Math.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\EntityFramework.xml
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\bin\Mono.Math.xml
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CopyComplete
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+C:\Users\unisanta\Desktop\Nova pasta\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\EntityFramework.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\System.Web.Optimization.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\System.Web.Providers.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\WebGrease.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\Mono.Math.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\EntityFramework.xml
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\bin\Mono.Math.xml
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.AssemblyReference.cache
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CopyComplete
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+C:\Users\maria\Documentos\Baixado\Nova pasta\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\EntityFramework.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\System.Web.Optimization.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\System.Web.Providers.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\WebGrease.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\Mono.Math.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\EntityFramework.xml
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\bin\Mono.Math.xml
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.AssemblyReference.cache
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CopyComplete
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+C:\Users\maria\Documentos\Baixado\meu\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\EntityFramework.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\System.Web.Optimization.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\System.Web.Providers.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\WebGrease.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\Mono.Math.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\EntityFramework.xml
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\bin\Mono.Math.xml
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.AssemblyReference.cache
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CopyComplete
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+C:\Users\unisanta\Downloads\meu\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.AssemblyReference.cache
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\obj\Debug\LIvroCaixa2023.pdb
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\LIvroCaixa2023.dll.config
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\LIvroCaixa2023.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\LIvroCaixa2023.pdb
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\Antlr3.Runtime.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.Core.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\EntityFramework.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\System.Web.Optimization.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\System.Web.Providers.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\WebGrease.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\Mono.Math.dll
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\EntityFramework.xml
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.Core.xml
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\bin\Mono.Math.xml
+C:\Users\unisanta\Downloads\LivroCaixa\LIvroCaixa2023\obj\Debug\LivroCaixa2023.csproj.CopyComplete

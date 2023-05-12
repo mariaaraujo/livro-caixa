@@ -1,0 +1,190 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-size: 0.9rem;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #4A4A4A;
+    background-color: #EBECED;
+}
+
+#MainContent_lbl_Descricao, #MainContent_lbl_Valor,
+#MainContent_lbl_Tipo, #MainContent_lbl_Data,
+#MainContent_lbl_Login, #MainContent_lbl_Senha,
+#MainContent_lbl_Nome, #MainContent_lbl_CPF,
+#MainContent_lbl_Perfil {
+    font-weight: 600;
+}
+
+/*#MainContent_ccb_User, #MainContent_ccb_Admin,
+#MainContent_ccb_Credito, #MainContent_ccb_Debito {
+}*/
+
+input[type=checkbox] {
+    position: relative;
+    cursor: pointer;
+    margin: 1rem;
+}
+
+input[type=checkbox]:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #C3C3BD;
+}
+
+input[type=checkbox]:checked:before {
+    content: "";
+    display: block;
+    position: absolute;
+    background-color: #4D3394;
+}
+
+input[type=checkbox]:checked:after {
+    content: "";
+    display: block;
+    width: 5px;
+    height: 0.6rem;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    position: absolute;
+    top: 0.2rem;
+    left: 0.4rem;
+}
+
+#MainContent_btn_Login, #MainContent_btn_Salvar, #MainContent_btn_BuscaId, #MainContent_btn_Ok {
+    background-color: #51B580;
+    color: white;
+    cursor: pointer;
+    padding: 0.6rem;
+    font-size: 1.2em;
+    font-weight: 600;
+    width: auto;
+    border-radius: 0.8rem;
+}
+
+#MainContent_btn_Limpar, #MainContent_btn_GerarSenha,
+#MainContent_btn_RedirectCadastroUsuario, #MainContent_btn_RedirectFluxoDeCaixa {
+    background-color: #4D3394;
+    color: white;
+    cursor: pointer;
+    padding: 0.6rem;
+    font-size: 1.2em;
+    font-weight: 600;
+    width: auto;
+    border-radius: 0.8rem;
+}
+
+#MainContent_btn_Voltar {
+    background-color: #FFFFFF;
+    border: 0.1rem solid #4D3394;
+    color: #4D3394;
+    cursor: pointer;
+    margin-left: 6rem;
+    width: auto;
+    padding: 0.6rem;
+    font-size: 1.2em;
+    font-weight: 600;
+    border-radius: 0.8rem;
+}
+
+#MainContent_btn_Sair, #MainContent_btn_Excluir {
+    background-color: #DC3545;
+    color: white;
+    cursor: pointer;
+    padding: 0.6rem;
+    font-size: 1.2em;
+    font-weight: 600;
+    width: auto;
+    border-radius: 0.8rem;
+}
+
+#MainContent_txt_Nome, #MainContent_txt_Login,
+#MainContent_txt_CPF, #MainContent_txt_Senha{
+    font-size: 1.2em;
+    margin: 0.5rem 0 0.6rem 1rem;
+    width: 17%;
+    border-radius: 0.8rem;
+    border: 0.1rem solid #808080;
+}
+
+#MainContent_txt_IdBusca {
+    font-size: 1.2em;
+    margin: 0.5rem 0 0.6rem 1rem;
+    width: 5%;
+    border-radius: 0.8rem;
+}
+
+#MainContent_txt_Valor, #MainContent_txt_Data {
+    width: 10%
+}
+
+#MainContent_txt_Descricao {
+    width: 28%;
+}
+
+#MainContent_lbl_Titulo {
+    font-size: 2rem;
+}
+
+#titulo {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+#mainContentIndex {
+    margin: 4rem;
+}
+
+#mainContentCadastro {
+    margin-bottom: 3rem;
+}
+
+#message {
+    padding: 1.5rem;
+}
+
+hr {
+    border: 0.1rem solid #140000;
+}
+
+table.blueTable {
+    margin-top: 2rem;
+    background-color: #EBECED;
+    text-align: center;
+}
+
+table.blueTable tr:nth-child(even) {
+    background: #D0E4F5;
+}
+
+table.blueTable thead {
+    background: #1C6EA4;
+    border-bottom: 2px solid #444444;
+}
+
+table.blueTable thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border-left: 2px solid #D0E4F5;
+}
+
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 0.75em;
+    border: 0 none;
+}
+
+td {
+    padding: 0.25em 2em 0.25em 0em;
+    border: 0 none;
+}
